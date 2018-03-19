@@ -1,0 +1,9 @@
+br\com\eiti\controllers\AppController.class
+br\com\eiti\controllers\UsersController.class
+br\com\eiti\dao\impl\UserDaoImpl.class
+br\com\eiti\dao\AbstractDao.class
+br\com\eiti\entity\User.class
+br\com\eiti\services\impl\UserServiceImpl.class
+br\com\eiti\dao\UserDao.class
+br\com\eiti\services\UserService.class
+br\com\eiti\Application.class
